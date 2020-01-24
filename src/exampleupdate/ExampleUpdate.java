@@ -18,6 +18,7 @@ public class ExampleUpdate {
         System.out.println("pull operation");
      System.out.println("fetch operation");
       System.out.println("merge operation");
+     System.out.println("branch operation");
     }
     
 }
